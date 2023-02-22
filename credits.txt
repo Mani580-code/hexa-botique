@@ -1,0 +1,22 @@
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 5     -    https://getbootstrap.com
+
+    - Font Awesome    -    https://fontawesome.com
+
+    - gLightbox2      -    https://biati-digital.github.io/glightbox/
+
+    - Choices.js      -    https://github.com/Choices-js/Choices
+
+    - Swiper.js       -    https://swiperjs.com/
+
+    - Nouislider      -    https://refreshless.com/nouislider/
+
+
+------------------------------------------
+ IMAGES
+------------------------------------------
+
+    - Images credits  -   https://unsplash.com
